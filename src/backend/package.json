@@ -1,0 +1,22 @@
+{
+    "name": "tu-proyecto",
+    "version": "1.0.0",
+    "description": "Descripción de tu proyecto",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [
+        "Node.js",
+        "Express",
+        "sharp",
+        "multer"
+    ],
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "^4.17.1",
+        "multer": "^1.4.3",
+        "node-printer": "^1.0.4",
+        "sharp": "^0.29.1"
+    }
+}
